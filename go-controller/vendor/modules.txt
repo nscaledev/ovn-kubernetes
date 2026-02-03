@@ -113,7 +113,7 @@ github.com/gabriel-vasile/mimetype/internal/magic
 # github.com/gaissmai/cidrtree v0.1.4
 ## explicit; go 1.18
 github.com/gaissmai/cidrtree
-# github.com/go-jose/go-jose/v4 v4.0.4
+# github.com/go-jose/go-jose/v4 v4.0.5
 ## explicit; go 1.21
 github.com/go-jose/go-jose/v4
 github.com/go-jose/go-jose/v4/cipher
